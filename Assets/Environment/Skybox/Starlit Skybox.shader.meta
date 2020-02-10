@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: eb8f0a4904e146c4ea5dd3a60751a34f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _HDR_Stars: {fileID: 8900000, guid: cace64c1ab73bb14db26d75ba61b0690, type: 3}
+  - _E_Moon: {fileID: 8900000, guid: 3da881e943f68b240a521a90d3626ce2, type: 3}
+  - _Cloud2: {fileID: 8900000, guid: 5c61b7a0c7c4d0f42901b260d4fca7a3, type: 3}
+  - _Cloud1: {fileID: 8900000, guid: e99d8fb7eac60474dbee600585991a7a, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
